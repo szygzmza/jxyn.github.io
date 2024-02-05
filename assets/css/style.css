@@ -2783,8 +2783,8 @@ textarea {
 }
 
 .logo {
-    --logo-max-width: 133px;
-    --logo-max-height: 36px;
+    --logo-max-width: 280px;
+    --logo-max-height: 200px;
     display: inline-flex;
     text-decoration: none;
 }
